@@ -1,0 +1,6 @@
+export enum ProgressStatus{
+    COMPLETED = "COMPLETED",
+    NOT_ENTERED = "NOT_ENTERED",
+    PARTIAL = "PARTIAL",
+    NOT_ASSIGNED = "NOT_ASSIGNED"
+}
